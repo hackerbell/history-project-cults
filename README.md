@@ -1,1 +1,1 @@
-# history-project-cults
+This repository was made as my history project!
